@@ -1,8 +1,8 @@
-# Deep mutational scanning of SARS-CoV-2 XBB.1.5 spike 
+# Deep mutational scanning of SARS-CoV-2 XBB.1.5 spike and mapping of C952+C1596 cocktail and the CoV-biRN-10 antibody escape using a barcoded lentiviral platform
 Study by Bernadeta Dadonaite and Jesse Bloom.  
 
-This repo contains data for antibody escape mapping experiments using full spike XBB.1.5 libraries.
-For documentation of the analysis, see [https://dms-vep.github.io/SARS-CoV-2_XBB.1.5_spike_DMS_mAbs/](https://dms-vep.github.io/SARS-CoV-2_XBB.1.5_spike_DMS_mAbs/)
+This repo contains data for C952+C1596 antibody cocktail and CoV-biRN-10 by-specific antibody escape mapping experiments using full spike XBB.1.5 libraries. The by-specific antibody is made from the compotents of antibody cocktail. These antibodies come from Christopher O. Barnes group.
+For documentation of the analysis, see [https://dms-vep.github.io/SARS-CoV-2_XBB.1.5_spike_DMS_Barnes_mAbs/](https://dms-vep.github.io/SARS-CoV-2_XBB.1.5_spike_DMS_Barnes_mAbs/)
 
 ## Organization of this repo
 
